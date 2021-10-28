@@ -12,6 +12,16 @@ body {
     border-radius: 0 0 0 50px;
 }
 
+#logo {
+    color: #6070FF;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;    
+    text-align: center;    
+}
+
 .bar-icon {
     background-color: #6070FF;
     width: 15px;
