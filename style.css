@@ -1,0 +1,13 @@
+html {
+}
+
+body {
+    width: 375px;
+    background-color: #E5E5E5;
+}
+
+.section1 {
+    background-color: #FFFFFF;
+    height: 718px;
+    border-radius: 0 0 0 50px;
+}
