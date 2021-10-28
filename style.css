@@ -70,3 +70,11 @@ body {
     color: #7F8CFF;
     text-transform: uppercase;
 }
+
+#social-media-icons {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;    
+}
