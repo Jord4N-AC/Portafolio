@@ -36,3 +36,19 @@ body {
     border-radius: 2px;
 }
 
+
+#intro-head {
+    position: static;
+    width: 327px;
+    height: 150px;
+    left: 24px;
+    top: 114px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    color: #172B4D;    
+}
