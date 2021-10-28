@@ -78,3 +78,13 @@ body {
     justify-content: space-between;
     width: 40%;    
 }
+
+
+/*i of LinkedIn Icon*/
+.i-container {
+    display: inline-block;
+}
+
+.i1, .i2 {
+    display: block;
+}
