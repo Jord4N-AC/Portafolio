@@ -12,6 +12,12 @@ body {
     border-radius: 0 0 0 50px;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 25px 0 25px;    
+}
+
 #logo {
     color: #6070FF;
     font-family: Poppins;
