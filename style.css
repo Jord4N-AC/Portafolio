@@ -1,9 +1,12 @@
-html {
+html {    
+    width: 375px;    
 }
 
 body {
     width: 375px;
-    background-color: #E5E5E5;     
+    background-color: #E5E5E5;  
+    margin: 0;   
+    height: calc(718px * 1.5);
 }
 
 .section1 {
