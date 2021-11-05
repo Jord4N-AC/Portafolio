@@ -9,8 +9,24 @@ body {
     height: calc(718px * 1.5);
 }
 
-.section1 {
-    background-color: #FFFFFF;
+.section1 {     
+    background-image: url("images/background/Ellipse 3.png"), 
+    url("images/background/Ellipse 4.png"), 
+    url("images/background/Ellipse 5.png"), 
+    url("images/background/Ellipse 8.png"), 
+    url("images/background/Ellipse 11.png"), 
+    url("images/background/Ellipse 12.png"), 
+    url("images/background/Ellipse 13.png"), 
+    url("images/background/Ellipse 15.png"), 
+    url("images/background/Rectangle 4.png"), 
+    url("images/background/Rectangle 5.png"), 
+    url("images/background/Rectangle 6.png"), 
+    url("images/background/Rectangle 7.png");
+    background-repeat: no-repeat;
+    background-position: 323px 165px, 237px 655px, 128px 160px, 214px 110px, 
+    0 161.47px, 332px 530px, 324px 541px, 53px 645px, 294px 132px, 
+    188px 653px, 0px 141.49px, 127px 151px;    
+    background-color: #ffffff;
     height: 718px;
     border-radius: 0 0 0 50px;
     padding: 0 30px 0 30px; 
