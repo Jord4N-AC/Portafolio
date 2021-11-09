@@ -33,6 +33,25 @@ body {
     padding: 0 30px 0 30px;
 }
 
+
+/* Notifications Bar */
+.not-bar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px; 
+    margin-right: -14px; 
+    font-size: 14px;    
+}
+
+.time {        
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.fas {    
+    padding-left: 6px;    
+}
+
 .header {
     display: flex;
     justify-content: space-between;
